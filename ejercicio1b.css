@@ -1,0 +1,20 @@
+ficha[id]::before{
+    content: "Ficha " attr(id)"  Fecha de ingreso:" attr(fechaingreso);
+}
+fichero{
+    background-color: rgb(188, 206, 241);
+}
+ficha{
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline;
+}
+direccion{
+    font-style: italic;
+    color: darkgreen;
+    display: block;
+}
+ficha telefono::before{
+    content: "Codigo: " attr(codigo)" ";
+}

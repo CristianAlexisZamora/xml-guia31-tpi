@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo1.xml  HZ18004 -->
+<?xml-stylesheet type="text/css" href="/ejercicio1b.css"?>
+<fichero>
+   <ficha id="1" fechaingreso="1/11/2012">
+      <nombre>Antonio</nombre>
+      <apellido>Barbero</apellido>
+      <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+    <ficha id="2" fechaingreso="25/8/2021">
+      <nombre >Juan</nombre>
+      <apellido>Perez</apellido>
+      <direccion>Calle a El Puerto</direccion>
+      <telefono codigo="503">7050-6040</telefono>
+      <email>juanperez2021@gmail.com</email>
+      <urlweb>xmldejuan.com</urlweb>
+    </ficha>
+    <ficha id="3" fechaingreso="25/8/2021">
+      <nombre >Carlos</nombre>
+      <apellido>Hernandez</apellido>
+      <direccion>Calle a El Pedregal</direccion>
+      <dui>00325901-1</dui>
+      <isss>28302390023029-1</isss>
+      <afp>12134224242-1</afp>
+      <telefono codigo="503">7150-6140</telefono>
+      <email>carlosh2021@gmail.com</email>
+      <urlweb>aprendiendoconcarlos.com.sv</urlweb>
+    </ficha>
+</fichero> 

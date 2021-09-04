@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo2.xml  HZ18004 -->
+<?xml-stylesheet type="text/css" href="/ejercicio2a.css" ?>
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+ 
+  <departamento id="2" nombre="La libertad">
+    <cabecera>Santa Tecka</cabecera>
+    <habitantes>660,653</habitantes>
+    <altura>493 MSNM</altura>
+  </departamento>
+  <moneda id="1">Dólar Estadounidense</moneda>
+  <moneda id="2">Bitcoin</moneda>
+  <moneda id="3">Colón Salvadoreño</moneda>
+  <codigoTelefonico>503</codigoTelefonico>
+  <idioma>
+    <idiomaOficial>Español</idiomaOficial> 
+    <idiomaAutoctono>Náhuatl</idiomaAutoctono>
+    <idiomaSecundario>Ingles</idiomaSecundario>
+  </idioma>
+  <areaTerritorial>21,041 km^2</areaTerritorial>
+</pais>
+

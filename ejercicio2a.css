@@ -1,0 +1,24 @@
+departamento[id]::before{
+    content: attr(id) " -Nombre del departamento: " attr(nombre);
+    display: block;
+}
+idioma{
+    font-style: italic;
+    display: block;
+}
+idioma::before{
+    content: "Idiomas: ";
+}
+moneda{
+    display: block;
+}
+
+moneda[id]::before{
+    content: attr(id) " - ";
+}
+pais{
+    background-color: rgb(48, 48, 221);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}

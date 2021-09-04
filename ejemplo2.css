@@ -1,0 +1,23 @@
+/*Ejemplo2.css HZ18004*/
+pais{
+    background-color: sandybrown;
+}
+departamento{
+    background-color: rgb(102, 255, 0);
+    display: block;
+}
+cabecera{
+    background-color: none;
+    color: black;
+    display: inline;
+}
+habitantes{
+    color: blue;
+    font-size: 0.5cm;
+    display: inline;
+}
+altura{
+    color:blue;
+    font-size: 1cm;
+    display: inline;
+}

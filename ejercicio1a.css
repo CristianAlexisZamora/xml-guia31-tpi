@@ -1,0 +1,16 @@
+ficha[id]::before{
+    content: "Ficha " attr(id)"  Fecha de ingreso:" attr(fechaingreso);
+}
+fichero{
+    background-color: cornflowerblue;
+}
+ficha{
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+direccion{
+    font-style: italic;
+    color: darkgreen;
+}

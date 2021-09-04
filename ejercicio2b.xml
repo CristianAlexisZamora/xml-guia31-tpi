@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo2.xml  HZ18004 -->
+<?xml-stylesheet type="text/css" href="/ejercicio2b.css"?>
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera id="1">San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+ 
+  <departamento id="2" nombre="La libertad">
+    <cabecera id="2">Santa Tecka</cabecera>
+    <habitantes>660,653</habitantes>
+    <altura>493 MSNM</altura>
+  </departamento>
+  
+  <departamento id="3" nombre="Chalatenango">
+    <cabecera id="3">Chalatenango</cabecera>
+    <habitantes>29,271</habitantes>
+    <altura>
+      <alturaMedia>400 MSNM</alturaMedia>
+      <alturaMaxima>1254 MSNM</alturaMaxima>
+      <alturaMinima>240 MSNM</alturaMinima>
+    </altura>
+    <descripcion>El nombre de Chalatenango es de origen nahuat-pipil, y proviene de Shai(arena); 
+    at,(agua) y tenan(muralla, muro). Etimologicamente, Muro de agua y arena</descripcion>
+  </departamento>
+
+  <moneda id="1">Dólar Estadounidense</moneda>
+  <moneda id="2">Bitcoin</moneda>
+  <moneda id="3">Colón Salvadoreño</moneda>
+  <codigoTelefonico>503</codigoTelefonico>
+  <idioma>
+    <idiomaOficial>Español</idiomaOficial> 
+    <idiomaAutoctono>Náhuatl</idiomaAutoctono>
+    <idiomaSecundario>Ingles</idiomaSecundario>
+  </idioma>
+  <areaTerritorial>21,041 km^2</areaTerritorial>
+</pais>
+
